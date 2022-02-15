@@ -1,0 +1,3 @@
+<?php
+//adding of string
+?>
